@@ -1,19 +1,22 @@
-def addition(num1, num2)
+def addition(2 + 2);
 end
 
-def subtraction(num1, num2)
+def subtraction(8 - 4)
 end
 
-def division(num1, num2)
+def division(15/3)
 end
 
-def multiplication(num1, num2)
+def multiplication(10*12))
+  10*12 =
 end
 
-def modulo(num1, num2)
+def modulo(10 % 7)
+  10 % 7 =
 end
 
 def square_root(num)
+  math.sqrt(81)
 end
 
 def order_of_operation(num1, num2, num3, num4)
